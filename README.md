@@ -26,4 +26,3 @@ An input audio file is convolved with a **binaural room impulse response (BRIR)*
 6. **Play and save** the output (`outp.wav`).  
 
 ---
-   exec('spatial_audio.sci', -1);
